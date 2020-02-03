@@ -3,4 +3,4 @@ window.MathJax = {
   tex: {packages: {'[+]': ['physics']}}
 };
 
-Mathjax.Ajax.loadComplete("https://raw.github.cs.adelaide.edu.au/a1686573/s4s-wiki/gh-pages/mathjax-config.js");
+Mathjax.Ajax.loadComplete("https://raw.githubusercontent.com/Atommozite/atomic-vault/master/mathjax-config.js");
